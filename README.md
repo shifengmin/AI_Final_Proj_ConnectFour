@@ -4,9 +4,9 @@
 
 ## 编译 
 
-支持**C++11** 标准的编译器
+支持**C++11** 标准的编译器，如
 
 ```shell
-g++ std=c++11 main.cpp -o a
+g++ -std=c++11 main.cpp -o a
 ```
 
